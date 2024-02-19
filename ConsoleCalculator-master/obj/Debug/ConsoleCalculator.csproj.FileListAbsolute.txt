@@ -1,7 +1,0 @@
-/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/ConsoleCalculator-master/bin/Debug/ConsoleCalculator.exe.config
-/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/ConsoleCalculator-master/bin/Debug/ConsoleCalculator.exe
-/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/ConsoleCalculator-master/bin/Debug/ConsoleCalculator.pdb
-/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/ConsoleCalculator-master/obj/Debug/ConsoleCalculator.csproj.AssemblyReference.cache
-/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/ConsoleCalculator-master/obj/Debug/ConsoleCalculator.csproj.CoreCompileInputs.cache
-/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/ConsoleCalculator-master/obj/Debug/ConsoleCalculator.exe
-/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/ConsoleCalculator-master/obj/Debug/ConsoleCalculator.pdb
