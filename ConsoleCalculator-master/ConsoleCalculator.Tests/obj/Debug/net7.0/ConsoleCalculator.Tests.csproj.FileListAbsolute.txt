@@ -1,0 +1,5 @@
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/ConsoleCalculator-master/ConsoleCalculator.Tests/obj/Debug/net7.0/ConsoleCalculator.Tests.csproj.AssemblyReference.cache
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/ConsoleCalculator-master/ConsoleCalculator.Tests/obj/Debug/net7.0/ConsoleCalculator.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/ConsoleCalculator-master/ConsoleCalculator.Tests/obj/Debug/net7.0/ConsoleCalculator.Tests.AssemblyInfoInputs.cache
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/ConsoleCalculator-master/ConsoleCalculator.Tests/obj/Debug/net7.0/ConsoleCalculator.Tests.AssemblyInfo.cs
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/ConsoleCalculator-master/ConsoleCalculator.Tests/obj/Debug/net7.0/ConsoleCalculator.Tests.csproj.CoreCompileInputs.cache
